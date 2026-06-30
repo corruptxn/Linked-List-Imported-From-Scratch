@@ -14,4 +14,4 @@ This implementation includes the following fundamental data manipulation operati
 
 ## Compilation and Setup
 
-Compile the file using any standard C++ compiler:
+Compile the file using any standard C++ compiler.
